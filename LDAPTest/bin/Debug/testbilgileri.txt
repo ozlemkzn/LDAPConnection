@@ -1,0 +1,5 @@
+testdom.com
+TESTDOM
+webldap
+*83_ofDy
+LDAP://OU=OU_AKurum,OU=OU_Users,DC=testdom,DC=com

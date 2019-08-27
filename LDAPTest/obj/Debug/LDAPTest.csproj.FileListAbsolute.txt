@@ -1,0 +1,17 @@
+C:\Users\ozlem.kozan\Desktop\LDAPTest\bin\Debug\LDAPTest.exe.config
+C:\Users\ozlem.kozan\Desktop\LDAPTest\obj\Debug\LDAPTest.csprojResolveAssemblyReference.cache
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\bin\Debug\LDAPTest.exe.config
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\bin\Debug\LDAPTest.exe
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\bin\Debug\LDAPTest.pdb
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\bin\Debug\Newtonsoft.Json.xml
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\obj\Debug\LDAPTest.exe
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\obj\Debug\LDAPTest.pdb
+C:\Users\ozlem.kozan\Desktop\LDAPTest\LDAPTest\obj\Debug\LDAPTest.csprojResolveAssemblyReference.cache
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\bin\Debug\LDAPTest.exe.config
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\obj\Debug\LDAPTest.exe
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\obj\Debug\LDAPTest.pdb
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\bin\Debug\LDAPTest.exe
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\bin\Debug\LDAPTest.pdb
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\bin\Debug\Newtonsoft.Json.dll
+C:\Users\myucel\Desktop\LDAPTest\LDAPTest\bin\Debug\Newtonsoft.Json.xml
